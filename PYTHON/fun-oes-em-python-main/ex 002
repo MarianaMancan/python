@@ -1,0 +1,7 @@
+def mensagem(msg):
+    print("-----------------------")
+    print(msg)
+    print("-----------------------")
+mensagem('Sistema de alunos')
+mensagem(' Cadastro de funcionario')
+mensagem(' Erro no sistema')

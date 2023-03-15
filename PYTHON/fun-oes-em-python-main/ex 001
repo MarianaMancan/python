@@ -1,0 +1,11 @@
+def mostralinha():
+    print("-----------------------")
+mostralinha()
+print('Sistema de alunos')
+mostralinha()
+mostralinha()
+print(' Cadastro de funcionario')
+mostralinha()
+mostralinha()
+print(' Erro no sistema')
+mostralinha()

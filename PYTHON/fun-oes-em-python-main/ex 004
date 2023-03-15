@@ -1,0 +1,8 @@
+def contador(*num):
+    tam=len(num)
+    print(f'recebi os valore de {num} e são ao todo {tam} numeros')
+   
+
+contador(4,5,6,7,8)
+contador(1,2)
+contador(32,1)
